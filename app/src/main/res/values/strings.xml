@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cam2App</string>
+    <string name="flip_button_text">0</string>
+    <string name="single_capture_button_text">Photo</string>
+</resources>
